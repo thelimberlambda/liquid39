@@ -6,3 +6,5 @@ To run, make sure you have Ruby installed, then:
 
     gem install liquid
     ruby barcode.rb
+
+Presently outputs the encoded form of `*WIKIPEDIA*` (using the standard Code 39 start/stop symbol of '`*`').
